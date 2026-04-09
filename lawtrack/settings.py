@@ -23,7 +23,6 @@ INSTALLED_APPS = [
 'documents',
 'events',
 'income',
-'api'
 ]
 
 MIDDLEWARE = [
